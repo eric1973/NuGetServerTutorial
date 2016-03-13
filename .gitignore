@@ -142,7 +142,7 @@ publish/
 
 # NuGet Packages
 *.nupkg
-!NuGetServerWebApp/Packages/testpackage.readmepackage.1.2.0.nupkg
+!**/NuGetServerWebApp/Packages/*
 # The packages folder can be ignored because of Package Restore
 **/packages/*
 # except build/, which is used as an MSBuild target.
